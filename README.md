@@ -87,7 +87,7 @@ class Card {
 ## Запуск проекта
 **1. Клонируйте репозиторий**
 ```
-git clone https://github.com/KIRILLKM/Pair-Game.git
+https://github.com/KIRILLKM/Pair-Game.git
 ```
 
 **2. Откройте в браузере**
